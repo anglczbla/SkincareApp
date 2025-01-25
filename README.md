@@ -1,2 +1,1 @@
-# SkincareApp
-Fullstack Skincare Website
+# tgs_uas_paw2
