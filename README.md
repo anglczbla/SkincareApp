@@ -52,7 +52,6 @@
 2. **Jalankan Backend Server:**
 
    ```bash
-   cd app_api
    npm install
    npm run dev
    ```
@@ -60,7 +59,6 @@
 3. **Jalankan Frontend Angular:**
 
    ```bash
-   cd skincareapp
    npm install
    ng serve
    ```
