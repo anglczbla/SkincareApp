@@ -1,11 +1,19 @@
 # 🌿 SkincareApp
 
-SkincareApp adalah aplikasi web fullstack yang dirancang untuk membantu pengguna dalam mengelola dan mengevaluasi produk skincare. Aplikasi ini dibangun menggunakan teknologi modern seperti Angular untuk frontend, serta Node.js dan Express.js untuk backend, dan didukung oleh MongoDB sebagai database.
+**SkincareApp** adalah aplikasi web fullstack yang dirancang untuk membantu pengguna dalam mengelola dan mengevaluasi produk skincare. Aplikasi ini dibangun menggunakan teknologi modern seperti **Angular** untuk frontend, serta **Node.js** dan **Express.js** untuk backend, dan didukung oleh **MongoDB** sebagai database.
 
-> Dibuat sebagai proyek akhir bersama UNIVERSITAS MULTI DATA PALEMBANG (Des 2024 - Jan 2025)
+> 🏫 Dibuat sebagai proyek akhir bersama **Universitas Multi Data Palembang**  
+> 🗓️ Periode: Desember 2024 – Januari 2025
+
+---
 
 ## 👨‍💻 Peran
-Project Leader, Frontend & Backend Developer
+
+- Project Leader
+- Frontend Developer
+- Backend Developer
+
+---
 
 ## 🚀 Tech Stack
 
@@ -17,9 +25,11 @@ Project Leader, Frontend & Backend Developer
 - **API Testing**: Postman
 - **Deployment**: Vercel
 
+---
+
 ## ✨ Fitur Utama
 
-- 🔐 Autentikasi JWT (admin & user)
+- 🔐 Autentikasi JWT (Admin & User)
 - 👥 Role-Based Access Control (RBAC)
 - 📦 CRUD produk skincare
 - 🔁 RESTful API
@@ -28,16 +38,42 @@ Project Leader, Frontend & Backend Developer
 - 📡 Komunikasi efisien antara frontend dan backend
 - ⚡ Deployment ke Vercel
 
-## 🖥️ Cara Instalasi
+---
+
+## 🖥️ Cara Instalasi & Menjalankan Proyek
 
 1. **Clone repositori:**
 
-```bash
-git clone https://github.com/anglczbla/SkincareApp.git
-cd SkincareApp
+   ```bash
+   git clone https://github.com/anglczbla/SkincareApp.git
+   cd SkincareApp
+   ```
 
-## Jalankan backend server
-npm run  dev
+2. **Jalankan Backend Server:**
 
-## Jalankan frontend server
-ng serve
+   ```bash
+   cd app_api
+   npm install
+   npm run dev
+   ```
+
+3. **Jalankan Frontend Angular:**
+
+   ```bash
+   cd skincareapp
+   npm install
+   ng serve
+   ```
+
+> Pastikan MongoDB sudah berjalan dan variabel `.env` telah dikonfigurasi di folder backend.
+
+---
+
+
+## 📄 Lisensi
+
+MIT License © 2025 [@anglczbla](https://github.com/anglczbla)
+
+---
+
+🌟 _Manage your skincare smarter, with SkincareApp._
