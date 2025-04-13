@@ -1,6 +1,6 @@
 # 🌿 SkincareApp
 
-**SkincareApp** adalah aplikasi web fullstack yang dirancang untuk membantu pengguna dalam mengelola dan mengevaluasi produk skincare. Aplikasi ini dibangun menggunakan teknologi modern seperti **Angular** untuk frontend, serta **Node.js** dan **Express.js** untuk backend, dan didukung oleh **MongoDB** sebagai database.
+**SkincareApp** adalah aplikasi web e-commerce fullstack yang dirancang untuk mendukung penjualan, penelusuran, dan pengelolaan produk skincare melalui platform yang ramah pengguna dan mudah digunakan.
 
 > 🏫 Dibuat sebagai proyek akhir bersama **Universitas Multi Data Palembang**  
 > 🗓️ Periode: Desember 2024 – Januari 2025
